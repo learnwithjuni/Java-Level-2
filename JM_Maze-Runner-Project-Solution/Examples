@@ -1,0 +1,17 @@
+Width: 4
+Height: 4
+Maze: 
+**I*
+** *
+*  *
+*O**
+Solution: DDLD
+
+Width: 4
+Height: 4
+Maze:
+****
+I **
+*  O
+****
+Solution: RDRR
